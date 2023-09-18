@@ -1,0 +1,10 @@
+C:\Users\vanessa\source\repos\ProjetoAgenda\ProjetoAgenda\bin\Debug\ProjetoAgenda.exe.config
+C:\Users\vanessa\source\repos\ProjetoAgenda\ProjetoAgenda\bin\Debug\ProjetoAgenda.exe
+C:\Users\vanessa\source\repos\ProjetoAgenda\ProjetoAgenda\bin\Debug\ProjetoAgenda.pdb
+C:\Users\vanessa\source\repos\ProjetoAgenda\ProjetoAgenda\obj\Debug\ProjetoAgenda.csproj.AssemblyReference.cache
+C:\Users\vanessa\source\repos\ProjetoAgenda\ProjetoAgenda\obj\Debug\ProjetoAgenda.Form1.resources
+C:\Users\vanessa\source\repos\ProjetoAgenda\ProjetoAgenda\obj\Debug\ProjetoAgenda.Properties.Resources.resources
+C:\Users\vanessa\source\repos\ProjetoAgenda\ProjetoAgenda\obj\Debug\ProjetoAgenda.csproj.GenerateResource.cache
+C:\Users\vanessa\source\repos\ProjetoAgenda\ProjetoAgenda\obj\Debug\ProjetoAgenda.csproj.CoreCompileInputs.cache
+C:\Users\vanessa\source\repos\ProjetoAgenda\ProjetoAgenda\obj\Debug\ProjetoAgenda.exe
+C:\Users\vanessa\source\repos\ProjetoAgenda\ProjetoAgenda\obj\Debug\ProjetoAgenda.pdb
